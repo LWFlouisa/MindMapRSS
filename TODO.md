@@ -10,4 +10,9 @@
   (2. How to tag different mindmaps within the same feed.<br />
   (3. How to tag nature and nurture routines.
   
+  ~~~xml
+  <brain></brain>
+  <routine></routine>
+  ~~~
+  
 * How and whether to include it as part of the larger RSS framework on localhost.
